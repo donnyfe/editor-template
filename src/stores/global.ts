@@ -4,7 +4,7 @@ import { useDark } from '@vueuse/core'
 
 export const useGlobalStore = defineStore('globalStore', () => {
 	// 页面标题
-	const pageTitle = ref('VideoEditor')
+	const pageTitle = ref('Editor')
 
 	const isDark = useDark()
 	// 初始化暗黑模式
