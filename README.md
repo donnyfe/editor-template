@@ -1,3 +1,5 @@
-# donnyfe-tpl-editor
+# editor-template
 
-编辑器应用快速启动模板
+## 项目介绍
+
+这是一个基于Vue3、ElementPlus的编辑器应用启动模板
